@@ -22,7 +22,8 @@ Submit any arduino code as a zip file.
 3. Press the button and turn on your normal LED
 - Drawing of circuit for button. Does not need to be an electrical drawing. Can be an electrical drawing. 
 - Video of button press circuit
-4. Use an RGB LED. (May be extra - let's see if we get it working)
+4. Design your lantern. Make a plan. Draw it, put the picture into the lab. Write about it. 
+5. Use an RGB LED. (May be extra - let's see if we get it working)
 
 
 ## Useful Resources
