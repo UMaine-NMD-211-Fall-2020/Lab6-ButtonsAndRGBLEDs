@@ -5,9 +5,7 @@ In this lab, we will focus on turning on an RGB LED using a button
 ### Goals
 - Run Ardunio without computer
 - Understand the point of a resistor
-- Use a button
-- RGB LED color mixing
-- RGB LED on/ off with button
+- Use a button, with power, without sending signal to the Arduino
 
 ### To Turn In
 Make a folder for lab 6 in your google drive folder.
@@ -24,7 +22,8 @@ Submit any arduino code as a zip file.
 - Drawing of circuit for button. Does not need to be an electrical drawing. Can be an electrical drawing. 
 - Video of button press circuit
 4. Design your lantern. Make a plan. Draw it, put the picture into the lab. Write about it. 
-5. Use an RGB LED. (May be extra - let's see if we get it working)
+5. (NEXT WEEK) Circuit trigger for code with button
+6. (NEXT WEEK) Use an RGB LED. (May be extra - let's see if we get it working)
 
 
 ## Useful Resources
