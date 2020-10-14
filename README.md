@@ -19,6 +19,7 @@ Submit any arduino code as a zip file.
 - Why do we use resistors in circuits? 
 - Do they do anything special to the amount of light running through a circuit? 
 - What is the color scheme for a 330 ohm resistor?
+- picture of led code from last week working in your circuit with a resistor
 3. Press the button and turn on your normal LED
 - Drawing of circuit for button. Does not need to be an electrical drawing. Can be an electrical drawing. 
 - Video of button press circuit
