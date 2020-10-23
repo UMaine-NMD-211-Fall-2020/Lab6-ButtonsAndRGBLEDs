@@ -36,3 +36,6 @@ Submit any arduino code as a zip file.
 - [RGB Light Tutorial](https://www.instructables.com/RGB-LED-Tutorial-using-an-Arduino-RGBL/#:~:text=A%20common%20anode%20RGB%20LED%20is%20the%20most,5%20volts%20a%20current%20limiting%20resistor%20is%20required.)
 ### Electrical Circuit Drawing
 - [Symbols list](http://www.electronic-symbols.com/electronic-electrical-symbols/basic-electrical-electronic-symbols.htm#:~:text=Symbology%20Basic%20Electrical%20and%20Electronic%20%20%20,switch%20%2B%20symbols%20%2026%20more%20rows%20)
+
+## Submissions
+- [FirstName LastName](www.example.com)
