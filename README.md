@@ -39,3 +39,4 @@ Submit any arduino code as a zip file.
 
 ## Submissions
 - [FirstName LastName](www.example.com)
+- [Elijah Story](https://github.com/ElijahStory/Lab6-Elijah-Story)
