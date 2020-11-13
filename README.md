@@ -32,6 +32,7 @@ Submit any arduino code as a zip file.
 - [About Resistors](https://blog.delcity.net/what-does-a-resistor-do-and-why-is-it-important/#:~:text=Resistors%20ensure%20components%20receive%20the%20proper%20voltage%20by,light%20or%20a%20switch%2C%20requires%20a%20specific%20voltage.)
 ### Buttons
 - [Button Tutorial](https://www.arduino.cc/en/tutorial/pushbutton)
+- [Alt. Button Tutorial](https://youtu.be/8ua3U3xwqJA)
 ### RGB Light Tutorial
 - [RGB Light Tutorial](https://www.instructables.com/RGB-LED-Tutorial-using-an-Arduino-RGBL/#:~:text=A%20common%20anode%20RGB%20LED%20is%20the%20most,5%20volts%20a%20current%20limiting%20resistor%20is%20required.)
 ### Electrical Circuit Drawing
