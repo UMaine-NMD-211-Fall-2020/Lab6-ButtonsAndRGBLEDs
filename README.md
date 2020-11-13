@@ -20,7 +20,7 @@ Submit any arduino code as a zip file.
 - picture of led code from last week working in your circuit with a resistor
 3. Press the button and turn on your normal LED
 - Drawing of circuit for button. Does not need to be an electrical drawing. Can be an electrical drawing. 
-- Video of button press circuit
+- Video / Picture of button press circuit
 4. Design your lantern. Make a plan. Draw it, put the picture into the lab. Write about it. 
 5. (NEXT WEEK) Circuit trigger for code with button
 6. (NEXT WEEK) Use an RGB LED. (May be extra - let's see if we get it working)
